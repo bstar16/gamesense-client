@@ -1,6 +1,6 @@
 package com.gamesense.api.event;
 
-import me.ionar.salhack.main.Wrapper;
+import com.gamesense.main.Wrapper;
 import me.zero.alpine.fork.event.type.Cancellable;
 
 public class MinecraftEvent extends Cancellable
