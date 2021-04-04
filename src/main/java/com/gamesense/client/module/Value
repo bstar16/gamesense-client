@@ -1,4 +1,4 @@
-package me.ionar.salhack.module;
+package com.gamesense.client.module.modules.combat;
 
 import me.ionar.salhack.gui.click.component.item.ComponentItem;
 
