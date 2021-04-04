@@ -1,6 +1,6 @@
 package com.gamesense.client.module.modules.combat;
 
-import me.ionar.salhack.gui.click.component.item.ComponentItem;
+import com.gamesense.client.clickgui;
 
 public class Value<T>
 {
